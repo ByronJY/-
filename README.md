@@ -3,6 +3,8 @@
 
 將摩斯電碼的 **「．」定義為「切」，「—」定義為「嚕 」**，以實際應用切嚕語。
 
+[網頁版](https://byronjy.github.io/Cheru_Morse_Code_Web/Cheru_Morse_Code_Web.html?fbclid=IwAR20aFwt58-4mgbQPZZo3-yGXeYFmzOr6YTBpQrMV0TIjsW_H_jHEziSUd0)
+
 [影片說明](https://youtu.be/BCmwzJPT-Fk)
 
 ---
